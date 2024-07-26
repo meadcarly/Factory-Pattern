@@ -1,0 +1,15 @@
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.sourcelink.json
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
